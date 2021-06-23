@@ -94,3 +94,7 @@ Bonus point (those items are optional):
 * **Scalability**: will technical choices scale well ? If not, is there a discussion of those choices in the result.md ?
 * **Authentication**: does the API allows user authentication ?
 
+## Thanks
+
+* Numbersapi.com - For the database seed
+* jtbonhomme - For writing this challenge - we just improved the grammar a bit.
