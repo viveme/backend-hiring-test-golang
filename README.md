@@ -97,4 +97,3 @@ Bonus point (those items are optional):
 ## Thanks
 
 * Numbersapi.com - For the database seed
-* jtbonhomme - For writing this challenge - we just improved the grammar a bit.
